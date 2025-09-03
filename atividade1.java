@@ -24,6 +24,7 @@ public class atividade1 {
 				notas.nextLine();
 			}
 			media = calcularMedia(soma, nota, i);
+			System.out.println("Media: "+media);
 		}
 		
 	}
